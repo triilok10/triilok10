@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/triilok10/triilok10/banner_photo.png) <!-- Replace with your banner image URL -->
+![Banner](https://raw.githubusercontent.com/triilok10/triilok10/main/banner_photo.png) <!-- Replace with your actual banner image URL -->
 
 # 👋 Hi, I’m @triilok10
 ### 👀 I’m interested in Software Development
@@ -24,10 +24,15 @@
 
 ---
 
+## 👁️ Visitor Count
+![Visitor Count](https://komarev.com/ghpvc/?username=triilok10&style=flat-square&color=blue)  <!-- or use the profile-counter service -->
+
+---
+
 ## 🛠️ Technologies & Tools
 - **Languages**: C#, JavaScript, HTML, CSS
 - **Frameworks**: .NET Core, ASP.NET MVC, React
 - **Databases**: SQL Server
-- **Tools**: Visual Studio, Git, VS Code
+- **Tools**: Visual Studio, Git , VS Code
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on any projects!
