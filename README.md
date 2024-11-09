@@ -36,13 +36,13 @@ Here are a few of the projects I'm currently working on:
 
 | Repository Name | Description | Stars | Forks |
 |------------------|-------------|-------|-------|
-| [Repo 1](https://github.com/triilok10/repo1) | Brief description of Repo 1 | ⭐️ 10 | 🍴 2 |
-| [Repo 2](https://github.com/triilok10/repo2) | Brief description of Repo 2 | ⭐️ 5 | 🍴 1 |
+| [RealTimeChatApplication](https://github.com/triilok10/RealTimeChatApplication) | A chat application that supports real-time messaging. | ![Stars](https://img.shields.io/github/stars/triilok10/RealTimeChatApplication?style=social) | ![Forks](https://img.shields.io/github/forks/triilok10/RealTimeChatApplication?style=social) |
+| [Repo 2](https://github.com/triilok10/repo2) | Brief description of Repo 2 | ![Stars](https://img.shields.io/github/stars/triilok10/repo2?style=social) | ![Forks](https://img.shields.io/github/forks/triilok10/repo2?style=social) |
 
 Feel free to explore my repositories on GitHub and connect with me for collaboration or discussion on any exciting opportunities!
 
 ## 📬 Let's Connect!
-- [LinkedIn](https://in.linkedin.com/triilok10?_l=en_US)
+- [LinkedIn](https://www.linkedin.com/in/triilok10)
 - [GitHub](https://github.com/triilok10)
 
 ## 📊 Real-Time Stats
