@@ -1,53 +1,17 @@
-# 👋 Hi, I’m @triilok10
-### 🌱 I’m currently working as a Software Developer
-
----
-
-### 💞️ I’m looking to collaborate on projects related to .NET Core and MVC
-
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@triilok10-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/triilok10)
-
-### 😄 Pronouns: He/Him
-### ⚡ Fun fact: I do love coding!
-
----
-
-## 🚀 GitHub Stats
-![Triilok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=triilok10&show_icons=true&theme=radical)
-
-## 👁️ Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=triilok10&style=flat-square&color=blue) 
-
----
-
-## 🛠️ Technologies & Tools
-### Languages:
-- C#
-- JavaScript
-- HTML
-- CSS
-
-### Frameworks:
-- .NET Core
-- ASP.NET MVC
-- React
-
-### Databases:
-- SQL Server
-
-### Tools:
-- Visual Studio
-- Git 
-- VS Code
-
----
-
-## 🎯 My Interests
-- **Open Source Contribution**: Actively contribute to open-source projects.
-- **Learning New Technologies**: Always exploring new frameworks and tools.
-- **Problem Solving**: Enjoy tackling complex problems through coding.
-
----
-
-Feel free to explore my repositories and reach out if you'd like to collaborate on any projects!
+Hi, I'm Trilok Chand Swami 👋
+I am a dedicated technical enthusiast and a junior developer currently working on various projects. My goal is to leverage my skills and knowledge as a Software Developer in a real-time environment to tackle challenges and create a positive impact on society for a sustainable future.
+💡 About Me
+As a passionate software developer and computer science student, I am motivated to harness technology to solve real-world problems and streamline tasks effectively. I continuously seek opportunities to learn and grow in the tech field.
+🚀 Skills
+Programming Languages: [List your programming languages here, e.g., Python, Java, JavaScript]
+Tools & Technologies: [List relevant tools or technologies, e.g., Git, Docker, AWS]
+📈 Current Projects
+Here are some of my latest repositories:
+Repository Name	Description	Stars	Forks
+Repo 1	Brief description of Repo 1	⭐️ 10	🍴 2
+Repo 2	Brief description of Repo 2	⭐️ 5	🍴 1
+Note: Replace "Repo 1" and "Repo 2" with actual repository names and update the stats accordingly.
+Let's Get Connected
+GitHub
+LinkedIn
+Feel free to reach out for collaboration or just to connect!
