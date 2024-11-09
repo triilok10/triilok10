@@ -1,17 +1,41 @@
-Hi, I'm Trilok Chand Swami 👋
-I am a dedicated technical enthusiast and a junior developer currently working on various projects. My goal is to leverage my skills and knowledge as a Software Developer in a real-time environment to tackle challenges and create a positive impact on society for a sustainable future.
-💡 About Me
-As a passionate software developer and computer science student, I am motivated to harness technology to solve real-world problems and streamline tasks effectively. I continuously seek opportunities to learn and grow in the tech field.
-🚀 Skills
-Programming Languages: [List your programming languages here, e.g., Python, Java, JavaScript]
-Tools & Technologies: [List relevant tools or technologies, e.g., Git, Docker, AWS]
-📈 Current Projects
-Here are some of my latest repositories:
-Repository Name	Description	Stars	Forks
-Repo 1	Brief description of Repo 1	⭐️ 10	🍴 2
-Repo 2	Brief description of Repo 2	⭐️ 5	🍴 1
-Note: Replace "Repo 1" and "Repo 2" with actual repository names and update the stats accordingly.
-Let's Get Connected
+Trilok Chand Swami
+Junior Software Developer | Tech Enthusiast | Problem Solver
+
+🚀 About Me
+I'm a passionate and driven software developer with a keen interest in leveraging technology to solve real-world challenges and create a sustainable future. Currently, as a junior developer, I am focused on expanding my expertise in backend and frontend technologies, and am constantly seeking opportunities to learn, grow, and make an impact through innovative solutions.
+
+🔧 Skills
+
+Backend Technologies:
+
+.NET Core
+MVC
+Web API
+SQL
+LINQ
+C#
+Frontend Technologies:
+
+jQuery
+JavaScript
+HTML
+CSS
+Bootstrap
+Tools & Technologies:
+
 GitHub
-LinkedIn
-Feel free to reach out for collaboration or just to connect!
+Postman
+IDEs:
+
+Visual Studio 2022
+Visual Studio 2017
+VS Code
+📈 Current Projects
+Here are a few of the projects I'm currently working on:
+
+Repo 1: Brief description of Repo 1 ⭐️ 10 Stars 🍴 2 Forks
+Repo 2: Brief description of Repo 2 ⭐️ 5 Stars 🍴 1 Fork
+Feel free to explore my repositories on GitHub and connect with me for collaboration or discussion on any exciting opportunities!
+
+📬 Let's Connect!
+LinkedIn | GitHub
