@@ -18,7 +18,7 @@ I'm a passionate and driven software developer with a keen interest in leveragin
 | CSS       | Bootstrap   |             |
 
 ### Tools & Technologies
-| GitHub    | Postman     |             |
+| GitHub    | Postman     |
 
 ### IDEs
 | Visual Studio 2022 | Visual Studio 2017 | VS Code |
