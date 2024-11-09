@@ -8,27 +8,20 @@ I'm a passionate and driven software developer with a keen interest in leveragin
 ## 🔧 Skills
 
 **Backend Technologies:**
-- .NET Core
-- MVC
-- Web API
-- SQL
-- LINQ
-- C#
+- .NET Core - MVC
+- Web API - SQL
+- LINQ - C#
 
 **Frontend Technologies:**
-- jQuery
-- JavaScript
-- HTML
-- CSS
+- jQuery - JavaScript
+- HTML - CSS
 - Bootstrap
 
 **Tools & Technologies:**
-- GitHub
-- Postman
+- GitHub - Postman
 
 **IDEs:**
-- Visual Studio 2022
-- Visual Studio 2017
+- Visual Studio 2022 - Visual Studio 2017
 - VS Code
 
 ## 📈 Current Projects
@@ -37,7 +30,7 @@ Here are a few of the projects I'm currently working on:
 | Repository Name | Description | Stars | Forks |
 |------------------|-------------|-------|-------|
 | [RealTimeChatApplication](https://github.com/triilok10/RealTimeChatApplication) | A chat application that supports real-time messaging. | ![Stars](https://img.shields.io/github/stars/triilok10/RealTimeChatApplication?style=social) | ![Forks](https://img.shields.io/github/forks/triilok10/RealTimeChatApplication?style=social) |
-| [Repo 2](https://github.com/triilok10/repo2) | Brief description of Repo 2 | ![Stars](https://img.shields.io/github/stars/triilok10/repo2?style=social) | ![Forks](https://img.shields.io/github/forks/triilok10/repo2?style=social) |
+| [Social-Media-Project](https://github.com/triilok10/Social-Media-Project) | Brief description of Repo 2 | ![Stars](https://img.shields.io/github/stars/triilok10/Social-Media-Project?style=social) | ![Forks](https://img.shields.io/github/forks/triilok10/Social-Media-Project?style=social) |
 
 Feel free to explore my repositories on GitHub and connect with me for collaboration or discussion on any exciting opportunities!
 
@@ -53,5 +46,3 @@ Feel free to explore my repositories on GitHub and connect with me for collabora
 ### Commits This Year:
 ![Commits Count](https://badges.pufler.dev/commits/yearly/triilok10)
 
-### Programming Languages Used:
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=triilok10&layout=compact)
