@@ -8,14 +8,13 @@ I'm a passionate and driven software developer with a keen interest in leveragin
 ## 🔧 Skills
 
 **Backend Technologies:**
-- .NET Core - MVC
-- Web API - SQL
-- LINQ - C#
+ .NET Core      MVC
+ Web API        SQL
+ LINQ           C#
 
 **Frontend Technologies:**
-- jQuery - JavaScript
-- HTML - CSS
-- Bootstrap
+ jQuery     JavaScript
+ HTML     CSS     Bootstrap
 
 **Tools & Technologies:**
 - GitHub - Postman
@@ -30,7 +29,7 @@ Here are a few of the projects I'm currently working on:
 | Repository Name | Description | Stars | Forks |
 |------------------|-------------|-------|-------|
 | [RealTimeChatApplication](https://github.com/triilok10/RealTimeChatApplication) | A chat application that supports real-time messaging. | ![Stars](https://img.shields.io/github/stars/triilok10/RealTimeChatApplication?style=social) | ![Forks](https://img.shields.io/github/forks/triilok10/RealTimeChatApplication?style=social) |
-| [Social-Media-Project](https://github.com/triilok10/Social-Media-Project) | Brief description of Repo 2 | ![Stars](https://img.shields.io/github/stars/triilok10/Social-Media-Project?style=social) | ![Forks](https://img.shields.io/github/forks/triilok10/Social-Media-Project?style=social) |
+| [Social-Media-Project](https://github.com/triilok10/Social-Media-Project) |A Social Media application that works using the API's| ![Stars](https://img.shields.io/github/stars/triilok10/Social-Media-Project?style=social) | ![Forks](https://img.shields.io/github/forks/triilok10/Social-Media-Project?style=social) |
 
 Feel free to explore my repositories on GitHub and connect with me for collaboration or discussion on any exciting opportunities!
 
