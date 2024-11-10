@@ -21,7 +21,7 @@ I'm a passionate and driven software developer with a keen interest in leveragin
  **GitHub**  &   **Postman**     
 
 ### IDEs
-| Visual Studio 2022 | Visual Studio 2017 | VS Code |
+** Visual Studio 2022 , Visual Studio 2017 &  VS Code **
 
 ## 📈 Current Projects
 Here are a few of the projects I'm currently working on:
