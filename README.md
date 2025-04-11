@@ -1,6 +1,6 @@
 # Hi, I'm Trilok Chand Swami 👋
 
-**Junior Software Developer | Tech Enthusiast | Problem Solver**
+** Software Engineer | Tech Enthusiast | Problem Solver**
 
 ## 🚀 About Me
 I'm a passionate and driven software developer with a keen interest in leveraging technology to solve real-world challenges and create a sustainable future. Currently, as a junior developer, I am focused on expanding my expertise in backend and frontend technologies, and I am constantly seeking opportunities to learn, grow, and make an impact through innovative solutions.
