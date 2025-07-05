@@ -76,5 +76,5 @@ Your activity and profile views at a glance:
 ### Profile Views:
 ![Visitor Count](https://komarev.com/ghpvc/?username=triilok10)
 
-### Commits This Year:
-![Commits Count](https://badges.pufler.dev/commits/yearly/triilok10)
+
+
