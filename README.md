@@ -5,7 +5,12 @@
 ---
 
 ## 🚀 About Me
-I'm a passionate and driven **Software Engineer** with a keen interest in leveraging technology to solve real-world challenges and create a sustainable future. Currently, I'm focused on expanding my expertise in both **backend and frontend technologies**. I'm constantly seeking opportunities to learn, grow, and make a significant impact through innovative solutions. My ultimate goal is to build robust, scalable, and user-friendly applications that truly make a difference in people's lives.
+Software Engineer with 2+ years of experience specializing in the .NET ecosystem and Angular, delivering scalable, secure, and high
+performance applications for enterprise and government platforms. Proven expertise in modernizing legacy systems, including migrating 
+ASP.NET WebForms to .NET Core Web API, achieving up to 30% performance improvement. Strong background in RESTful API architecture, 
+API versioning, and SQL Server optimization for high-concurrency systems using Dapper ORM and advanced query tuning. Experienced across
+the full SDLC, from designing role-based approval workflows for large-scale portals to implementing real-time notification systems using
+Firebase (FCM). Currently focused on building cloud-ready production systems using Azure, Docker, and CI/CD practices
 
 ---
 
