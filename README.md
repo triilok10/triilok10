@@ -1,10 +1,10 @@
-# Hi there, I'm Trilok Chand Swami 👋
+# Hi there, I'm Trilok Chand Swami 
 
 ### Software Engineer | Tech Enthusiast | Problem Solver
 
 ---
 
-## 🚀 About Me
+##  About Me
 Software Engineer with 2+ years of experience specializing in the .NET ecosystem and Angular, delivering scalable, secure, and high
 performance applications for enterprise and government platforms. Proven expertise in modernizing legacy systems, including migrating 
 ASP.NET WebForms to .NET Core Web API, achieving up to 30% performance improvement. Strong background in RESTful API architecture, 
@@ -14,7 +14,7 @@ Firebase (FCM). Currently focused on building cloud-ready production systems usi
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 ### Backend Development
 | Technology    | Area          |
@@ -44,7 +44,7 @@ Firebase (FCM). Currently focused on building cloud-ready production systems usi
 
 ---
 
-## 🚀 Current Projects
+##  Current Projects
 Take a look at some of the exciting projects I'm currently working on:
 
 | Repository Name | Description | Stars | Forks |
@@ -54,7 +54,7 @@ Take a look at some of the exciting projects I'm currently working on:
 
 ---
 
-## 📚 What I'm Learning & Exploring
+## What I'm Learning & Exploring
 I believe in continuous learning. Here's what I'm currently diving into:
 * **Cloud Technologies:** Deepening my understanding of **Microsoft Azure** services for building scalable and resilient cloud-native applications.
 * **Modern JavaScript Frameworks:** Exploring **React/Angular** to enhance my frontend development capabilities and build highly interactive user interfaces.
@@ -62,7 +62,7 @@ I believe in continuous learning. Here's what I'm currently diving into:
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 I'm always eager to discuss new opportunities, collaborate on interesting projects, or simply connect with fellow tech enthusiasts. Feel free to reach out!
 
 * **LinkedIn:** [https://www.linkedin.com/in/triilok10](https://www.linkedin.com/in/triilok10)
@@ -70,7 +70,7 @@ I'm always eager to discuss new opportunities, collaborate on interesting projec
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 Your activity and profile views at a glance:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=triilok10&show_icons=true&theme=radical&hide_border=true)
