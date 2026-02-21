@@ -1,85 +1,62 @@
-# Hi there, I'm Trilok Chand Swami 
+ TRILOK CHAND SWAMI • DESIGNATION: SOFTWARE ENGINEER
 
-### Software Engineer | Tech Enthusiast | Problem Solver
+⚡ TL;DR (EXECUTIVE SUMMARY)
 
----
-
-##  About Me
-Software Engineer with 2+ years of experience specializing in the .NET ecosystem and Angular, delivering scalable, secure, and high
-performance applications for enterprise and government platforms. Proven expertise in modernizing legacy systems, including migrating 
-ASP.NET WebForms to .NET Core Web API, achieving up to 30% performance improvement. Strong background in RESTful API architecture, 
-API versioning, and SQL Server optimization for high-concurrency systems using Dapper ORM and advanced query tuning. Experienced across
-the full SDLC, from designing role-based approval workflows for large-scale portals to implementing real-time notification systems using
-Firebase (FCM). Currently focused on building cloud-ready production systems using Azure, Docker, and CI/CD practices
-
----
-
-## Tech Stack & Skills
-
-### Backend Development
-| Technology    | Area          |
-|---------------|---------------|
-| **C#** | Language      |
-| **.NET Core** | Framework     |
-| **ASP.NET MVC**| Framework     |
-| **Web API** | RESTful APIs  |
-| **LINQ** | Data Query    |
-
-### Frontend Development
-| Technology    | Area          |
-|---------------|---------------|
-| **HTML** | Structure     |
-| **CSS** | Styling       |
-| **JavaScript**| Scripting     |
-| **jQuery** | Library       |
-| **Bootstrap** | Framework     |
-
-### Databases & Tools
-| Category            | Technologies / Tools                          |
-|---------------------|-----------------------------------------------|
-| **Databases** | SQL                                           |
-| **Version Control** | Git, GitHub                                   |
-| **API Testing** | Postman                                       |
-| **IDEs** | Visual Studio 2022, Visual Studio 2017, VS Code |
-
----
-
-##  Current Projects
-Take a look at some of the exciting projects I'm currently working on:
-
-| Repository Name | Description | Stars | Forks |
-|------------------|-------------|-------|-------|
-| [RealTimeChatApplication](https://github.com/triilok10/RealTimeChatApplication) | A dynamic chat application supporting real-time messaging, built to showcase WebSocket communication. | ![Stars](https://img.shields.io/github/stars/triilok10/RealTimeChatApplication?style=social) | ![Forks](https://img.shields.io/github/forks/triilok10/RealTimeChatApplication?style=social) |
-| [Social-Media-Project](https://github.com/triilok10/Social-Media-Project) | A comprehensive social media platform demonstrating robust API integrations for dynamic content and user interactions. | ![Stars](https://img.shields.io/github/stars/triilok10/Social-Media-Project?style=social) | ![Forks](https://img.shields.io/github/forks/triilok10/Social-Media-Project?style=social) |
-
----
-
-## What I'm Learning & Exploring
-I believe in continuous learning. Here's what I'm currently diving into:
-* **Cloud Technologies:** Deepening my understanding of **Microsoft Azure** services for building scalable and resilient cloud-native applications.
-* **Modern JavaScript Frameworks:** Exploring **React/Angular** to enhance my frontend development capabilities and build highly interactive user interfaces.
-* **Microservices Architecture:** Learning patterns and best practices for designing and implementing distributed systems.
-
----
-
-## Let's Connect!
-I'm always eager to discuss new opportunities, collaborate on interesting projects, or simply connect with fellow tech enthusiasts. Feel free to reach out!
-
-* **LinkedIn:** [https://www.linkedin.com/in/triilok10](https://www.linkedin.com/in/triilok10)
-* **GitHub:** [https://github.com/triilok10](https://github.com/triilok10)
-
----
-
-## GitHub Stats
-Your activity and profile views at a glance:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=triilok10&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=triilok10&layout=compact&theme=radical&hide_border=true)
-
----
-
-### Profile Views:
-![Visitor Count](https://komarev.com/ghpvc/?username=triilok10)
+🎓 Identity: Software Engineer | .NET Specialist | Cloud Aspirant (AZ-900 in Progress)
+🎯 Target: Building enterprise-grade, cloud-ready systems that actually survive production.
+🛠️ Stack: Mastery in C# & .NET Core | Proficient in Angular & SQL Server
+📈 Stats: 2+ Years Experience | 30% Performance Gains | 500+ API Endpoints Shipped
 
 
+🏛️ THE MANUSCRIPT (ABOUT ME)
+"You wouldn't last an hour in the asylum where they raised me." (Referencing legacy ASP.NET WebForms)
+I am a dedicated Software Engineer forged in the fires of enterprise systems and government platforms. My life is a study in precision — clean architecture by day, cloud blueprints by night.
 
+🔭 The Ambition: To architect scalable, cloud-native systems on Microsoft Azure.
+🕰️ The Grind: Migrating legacy codebases while the world sleeps.
+✒️ The Philosophy: Clean code is not a luxury. It's a responsibility.
+🤍 The Vibe: Disciplined. Detail-oriented. Always shipping.
+
+
+🏗️ THE PROJECTS (DEPARTMENT OF INNOVATION)
+"I can do it with a broken heart... and a broken build."
+PROJECT NAMETECHNOLOGYOUTCOME / IMPACTLegacy Migration EngineASP.NET WebForms → .NET Core Web APIModernized government portal, achieving 30% performance improvementReal-Time Chat ApplicationWebSockets, SignalR, C#Built dynamic real-time messaging system with low-latency communicationRole-Based Approval Portal.NET Core, SQL Server, DapperDesigned multi-level approval workflows for large-scale enterprise platformSocial Media Platform.NET Web API, AngularRobust API integrations for dynamic content and user interactions
+
+📜 THE ARTIFACTS (TECH STACK)
+DEPARTMENT OF LOGIC (BACKEND)
+C# Core .NET Web API MVC LINQ
+DEPARTMENT OF ARCHITECTURE (FRONTEND)
+Angular JavaScript HTML CSS Bootstrap jQuery
+DEPARTMENT OF INFRASTRUCTURE (TOOLS)
+Git GitHub Postman Docker Visual Studio VS Code
+DEPARTMENT OF DATA (DATABASE)
+SQL Server Dapper ORM RESTful APIs Firebase FCM
+
+⚖️ THE EVIDENCE (STATISTICS)
+"I check the stats once, then I check them twice."
+METRICCOUNTYEARS OF EXPERIENCE2+PERFORMANCE GAIN ACHIEVED30%CONCURRENT CONNECTIONS HANDLED500+SYSTEMS MIGRATED TO .NET COREMultiple
+
+🚀 CURRENT QUEST (WHAT I'M LEARNING)
+// THE CLOUD CHRONICLES (PROJECT: AZ_900)
+class Engineer : public Developer {
+    private:
+        string target = "Azure Certified Professional";
+        string currentCert = "AZ-900";
+        
+    public:
+        void daily_routine() {
+            study("Azure Core Services");
+            practice("Cloud Architecture");
+            grind("CI/CD & Docker");
+            // "Legacy is what you leave. Cloud is where you build it."
+        }
+};
+
+💬 THE QUOTE
+"Migrating legacy systems is not just engineering — it's archaeology, therapy, and warfare, all at once."
+
+🔗 LET'S CONNECT (DEPARTMENT OF COLLABORATION)
+I'm always open to discussing new opportunities, collaborating on interesting projects, or connecting with fellow engineers!
+
+💼 LinkedIn: linkedin.com/in/triilok10
+🐙 GitHub: github.com/triilok10
