@@ -1,6 +1,6 @@
  TRILOK CHAND SWAMI • DESIGNATION: SOFTWARE ENGINEER
 
-⚡ TL;DR (EXECUTIVE SUMMARY)
+
 
 🎓 Identity: Software Engineer | .NET Specialist | Cloud Aspirant (AZ-900 in Progress)
 🎯 Target: Building enterprise-grade, cloud-ready systems that actually survive production.
