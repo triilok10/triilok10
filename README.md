@@ -19,14 +19,14 @@
 
 ---
 
-## ⚡ TL;DR — EXECUTIVE SUMMARY
+##  EXECUTIVE SUMMARY
 
 | | |
 |:--|:--|
 | 🎓 **Identity** | Full-Stack Engineer · .NET Backend · Angular Frontend · Cloud Learner |
 | 🎯 **Mission** | Build enterprise systems that are fast, secure, and actually survive production |
 | 🛠️ **Stack** | `C#` `.NET Core` `Angular` `SQL Server` `Azure` `Docker` |
-| 📈 **Stats** | `2+` yrs experience &nbsp;·&nbsp; `500+` API endpoints &nbsp;·&nbsp; `5,000+` users served &nbsp;·&nbsp; `30%` avg perf gain |
+| 📈 **Stats** | `2+` yrs experience &nbsp;·&nbsp; `500+` API endpoints &nbsp;·&nbsp; `10,000+` users served &nbsp;·&nbsp; `30%` avg perf gain |
 
 ---
 
@@ -49,7 +49,7 @@ I've worked on **government platforms**, **enterprise HR systems**, and **real-t
 |:-------|:-------|
 | 💼 Years of Experience | `2+` |
 | 🔗 API Endpoints Built & Shipped | `500+` |
-| 👥 Active Users Served | `5,000+` |
+| 👥 Active Users Served | `10,000+` |
 | ⚡ Average Performance Gain | `30%` |
 | 📄 Manual Paperwork Eliminated | `70%` |
 | 🔄 Legacy Systems Modernised | `Multiple` |
