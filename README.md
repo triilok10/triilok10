@@ -13,33 +13,46 @@
 
 <br>
 
-> *"I don't just write code — I solve problems, ship systems, and leave the codebase better than I found it."*
+> *"I don't just write code — I solve problems, ship high-availability systems, and leave the codebase better than I found it."*
 
 </div>
 
 ---
 
-##  EXECUTIVE SUMMARY
+## 📋 EXECUTIVE SUMMARY
 
 | | |
 |:--|:--|
-| 🎓 **Identity** | Full-Stack Engineer · .NET Backend · Angular Frontend · Cloud Learner |
-| 🎯 **Mission** | Build enterprise systems that are fast, secure, and actually survive production |
-| 🛠️ **Stack** | `C#` `.NET Core` `Angular` `SQL Server` `Azure` `Docker` |
-| 📈 **Stats** | `2+` yrs experience &nbsp;·&nbsp; `500+` API endpoints &nbsp;·&nbsp; `10,000+` users served &nbsp;·&nbsp; `30%` avg perf gain |
+| 🎓 **Identity** | Backend & Full-Stack Engineer · .NET Specialist · Angular · Azure & AI Certified |
+| 🎯 **Mission** | Build enterprise & government systems that are fast, secure, and resilient in production |
+| 🛠️ **Stack** | `C#` `.NET Core` `ASP.NET Core` `SQL Server` `Azure` `Docker` `Angular` |
+| 🏆 **Certifications**| **Microsoft Certified: Azure Fundamentals (AZ-900)** `952/1000` <br> **Microsoft Certified: Azure AI Fundamentals (AI-901)** |
+| 📈 **Stats** | `2.5+` yrs experience &nbsp;·&nbsp; `500+` API endpoints &nbsp;·&nbsp; `10,000+` users served &nbsp;·&nbsp; `30%` avg perf gain |
 
 ---
 
 ## 🏛️ THE MANUSCRIPT — ABOUT ME
 
-I'm a **Full-Stack Software Engineer** who builds end-to-end solutions — from designing efficient SQL schemas and clean REST APIs on the backend, to crafting smooth Angular UIs on the frontend.
+I'm a **Backend & Full-Stack Software Engineer** specializing in end-to-end enterprise architectures — from architecting optimized SQL schemas and robust RESTful APIs on the backend, to delivering high-performance UIs on the frontend.
 
-I've worked on **government platforms**, **enterprise HR systems**, and **real-time applications** — delivering features that real users depend on every day.
+I build **statewide government platforms**, **enterprise HR infrastructure**, and **real-time backend systems** — turning complex business requirements into maintainable, production-ready code.
 
-- 🔭 **Building toward** — Cloud-native, scalable systems on Microsoft Azure
-- 🕰️ **Currently doing** — Production features by day, AZ-900 prep by night
-- ✒️ **Philosophy** — Write code for the engineer who maintains it next, not just for today
-- 🤝 **How I work** — Collaborative, communicative, and always focused on outcomes
+- ☁️ **Cloud & AI Certified** — Azure Fundamentals (AZ-900) & Azure AI Fundamentals (AI-901)
+- 🔭 **Building toward** — High-availability, cloud-native microservices & local AI integrations
+- ✒️ **Philosophy** — Write clean, scalable code for the engineer who maintains it next, not just for today
+- 🤝 **How I work** — Outcome-driven, communicative, and passionate about tech community building
+
+---
+
+## 📜 CERTIFICATIONS & ARTIFACTS
+
+<div align="center">
+
+![Azure AZ-900](https://img.shields.io/badge/Microsoft%20Certified-AZ--900%20(952%2F1000)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+&nbsp;&nbsp;
+![Azure AI-901](https://img.shields.io/badge/Microsoft%20Certified-AI--901-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+</div>
 
 ---
 
@@ -47,50 +60,50 @@ I've worked on **government platforms**, **enterprise HR systems**, and **real-t
 
 | Metric | Result |
 |:-------|:-------|
-| 💼 Years of Experience | `2+` |
-| 🔗 API Endpoints Built & Shipped | `500+` |
-| 👥 Active Users Served | `10,000+` |
-| ⚡ Average Performance Gain | `30%` |
-| 📄 Manual Paperwork Eliminated | `70%` |
-| 🔄 Legacy Systems Modernised | `Multiple` |
+| 💼 Years of Production Experience | `2.5+` |
+| 🔗 RESTful API Endpoints Built & Shipped | `500+` |
+| 👥 Active Users Served Across Platforms | `10,000+` |
+| ⚡ Average Query & API Performance Gain | `30%` |
+| 📄 Manual Paperwork Eliminated via Automation | `70%` |
+| 🔄 Legacy Architectures Modernized | `Multiple` |
 
 ---
 
 ## 🏗️ THE PROJECTS — DEPARTMENT OF INNOVATION
 
-> *"I can do it with a broken heart... and a broken build."*
+> *"I can do it with a broken heart... and a clean build."*
 
-> ⚠️ **Project names withheld** — currently in active production.
+> ⚠️ **Project names withheld** — currently powering active production environments.
 
 <br>
 
-**🏛️ Government Portal · Workflow Automation**
+**🏛️ Statewide Government Portal · Workflow Automation (RajNOC)**
 
 `ASP.NET Core` `SQL Server` `Angular` `Dapper ORM` `Role-Based Access`
 
-Built dynamic approval workflows and RESTful APIs for a state government portal — cutting NOC processing time by **60%** and improving operational flexibility by **45%**.
+Architected dynamic multi-tier approval workflows and RESTful APIs for a state government portal — cutting NOC processing turnaround time by **60%** and improving operational efficiency by **45%**.
 
 <br>
 
-**📊 State-Wide Data Platform · 5,000+ Entities**
+**📊 State-Wide Data Platform · 5,000+ Registered Entities**
 
-`.NET Core` `Angular` `SQL Server` `RESTful APIs`
+`.NET Core` `Angular` `SQL Server` `RESTful APIs` `High Availability`
 
-Designed and shipped the full backend for a large-scale government registry system serving 5,000+ entities — reduced manual paperwork by **70%**, API response time by **30%**.
+Designed and deployed the full backend infrastructure for a large-scale registry system serving over 5,000 entities — reduced manual administrative paperwork by **70%** and optimized payload responses by **30%**.
 
 <br>
 
-**🏢 HR Platform · Full-Stack Feature Development**
+**🏢 HR Platform · Legacy Modernization & Messaging**
 
 `ASP.NET WebForms → .NET Core` `Angular` `HubSpot API` `Firebase FCM` `Dapper`
 
-Delivered 500+ API endpoints, migrated legacy modules, integrated third-party services, and shipped real-time push notifications to **5,000+** employees. PDF generation time cut by **45%**.
+Delivered 500+ production API endpoints, migrated legacy monolithic WebForms modules to modern .NET Core, integrated external APIs, and enabled real-time push messaging for **5,000+** active users. Cut PDF document generation latency by **45%**.
 
 ---
 
-## 📜 THE ARTIFACTS — TECH STACK
+## 🛠️ THE ARTIFACTS — TECH STACK
 
-**🔷 BACKEND**
+**🔷 BACKEND & ARCHITECTURE**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -100,7 +113,7 @@ Delivered 500+ API endpoints, migrated legacy modules, integrated third-party se
 ![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
 
-**🔷 FRONTEND**
+**🔷 FRONTEND & MOBILE**
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -109,9 +122,10 @@ Delivered 500+ API endpoints, migrated legacy modules, integrated third-party se
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-**🔷 CLOUD & DEVOPS**
+**🔷 CLOUD, DEVOPS & AI**
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure AI Services](https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -124,68 +138,18 @@ Delivered 500+ API endpoints, migrated legacy modules, integrated third-party se
 ## 🚀 CURRENT QUEST — WHAT I'M LEARNING
 
 ```cpp
-// THE CLOUD CHRONICLES — PROJECT: AZ_900
+// THE CLOUD & AI CHRONICLES
 class Engineer : public Developer {
     private:
-        string target      = "Azure Certified Professional";
-        string currentCert = "AZ-900";
+        string target       = "Azure Solutions Architect & AI Engineer";
+        vector<string> certsCompleted = {"AZ-900 (Score: 952/1000)", "AI-901"};
 
     public:
         void daily_routine() {
-            study("Azure Core Services");
-            practice("Cloud Architecture");
-            grind("CI/CD & Docker");
-            explore("React.js");
-            learn("Microservices Patterns");
-            // "Legacy is what you leave. Cloud is where you build it."
+            build("Cloud-Native Azure Architectures");
+            implement("Local AI Models & Generative AI Pipelines");
+            master("Distributed Microservices & Containerization");
+            explore("Modern Frontend Frameworks");
+            // "Legacy is what you refactor. Cloud & AI is where you build tomorrow."
         }
 };
-```
-
-- ☁️ **Azure AZ-900** — Cloud fundamentals certification in progress
-- ⚛️ **React.js** — Expanding frontend skills beyond Angular
-- 🧩 **Microservices** — Distributed systems and architecture patterns
-
----
-
-## 📊 GITHUB STATS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=triilok10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7B5EA7&icon_color=7B5EA7&text_color=ffffff&bg_color=0d1117" alt="Trilok GitHub Stats" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=triilok10&theme=tokyonight&hide_border=true&ring=7B5EA7&fire=7B5EA7&currStreakLabel=7B5EA7&background=0d1117&stroke=7B5EA7&sideLabels=ffffff&dates=888888" alt="Trilok GitHub Streak" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triilok10&layout=compact&theme=tokyonight&hide_border=true&title_color=7B5EA7&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
-
-</div>
-
----
-
-## 🔗 LET'S CONNECT — DEPARTMENT OF COLLABORATION
-
-I'm always open to new opportunities, interesting projects, and connecting with fellow engineers!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/triilok10)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ittiku3@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/triilok10)
-
----
-
-<div align="center">
-
-*"Migrating legacy systems is not just engineering — it's archaeology, therapy, and warfare, all at once."*
-
-<br>
-
-**Clean code today. Cloud-native tomorrow.**
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=triilok10&color=7B5EA7&style=flat-square&label=Profile+Views)
-
-</div>
