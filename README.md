@@ -26,7 +26,7 @@
 | 🎓 **Identity** | Backend & Full-Stack Engineer · .NET Specialist · Angular · Azure & AI Certified |
 | 🎯 **Mission** | Build enterprise & government systems that are fast, secure, and resilient in production |
 | 🛠️ **Stack** | `C#` `.NET Core` `ASP.NET Core` `SQL Server` `Azure` `Docker` `Angular` |
-| 🏆 **Certifications**| **Microsoft Certified: Azure Fundamentals (AZ-900)** `952/1000` <br> **Microsoft Certified: Azure AI Fundamentals (AI-901)** |
+| 🏆 **Certifications**| **Microsoft Certified: Azure Fundamentals (AZ-900)** `952/1000` <br> **Microsoft Certified: Azure AI Fundamentals (AI-901)** `966/1000` |
 | 📈 **Stats** | `2.5+` yrs experience &nbsp;·&nbsp; `500+` API endpoints &nbsp;·&nbsp; `10,000+` users served &nbsp;·&nbsp; `30%` avg perf gain |
 
 ---
@@ -37,7 +37,7 @@ I'm a **Backend & Full-Stack Software Engineer** specializing in end-to-end ente
 
 I build **statewide government platforms**, **enterprise HR infrastructure**, and **real-time backend systems** — turning complex business requirements into maintainable, production-ready code.
 
-- ☁️ **Cloud & AI Certified** — Azure Fundamentals (AZ-900) & Azure AI Fundamentals (AI-901)
+- ☁️ **Cloud & AI Certified** — Azure Fundamentals (AZ-900: 952/1000) & Azure AI Fundamentals (AI-901: 966/1000)
 - 🔭 **Building toward** — High-availability, cloud-native microservices & local AI integrations
 - ✒️ **Philosophy** — Write clean, scalable code for the engineer who maintains it next, not just for today
 - 🤝 **How I work** — Outcome-driven, communicative, and passionate about tech community building
@@ -50,7 +50,7 @@ I build **statewide government platforms**, **enterprise HR infrastructure**, an
 
 ![Azure AZ-900](https://img.shields.io/badge/Microsoft%20Certified-AZ--900%20(952%2F1000)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 &nbsp;&nbsp;
-![Azure AI-901](https://img.shields.io/badge/Microsoft%20Certified-AI--901-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure AI-901](https://img.shields.io/badge/Microsoft%20Certified-AI--901%20(966%2F1000)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </div>
 
@@ -142,7 +142,10 @@ Delivered 500+ production API endpoints, migrated legacy monolithic WebForms mod
 class Engineer : public Developer {
     private:
         string target       = "Azure Solutions Architect & AI Engineer";
-        vector<string> certsCompleted = {"AZ-900 (Score: 952/1000)", "AI-901"};
+        vector<string> certsCompleted = {
+            "AZ-900 (Score: 952/1000)", 
+            "AI-901 (Score: 966/1000)"
+        };
 
     public:
         void daily_routine() {
